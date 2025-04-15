@@ -1,6 +1,8 @@
 # Farmer-connect
 
 INTRODUCTION 
+<br>
+<hr>
 In the dynamic landscape of modern agriculture, farmers often face numerous 
 challenges in accessing fair markets for their produce. Traditional methods of selling 
 crops frequently involve intermediaries, leading to reduced profit margins and limited 
